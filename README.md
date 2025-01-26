@@ -38,24 +38,20 @@ Este proyecto implementa un sistema de control de acceso mediante tarjetas RFID 
 proyecto-control-acceso-rfid/
 │
 ├── ArduinoUNO/
-│   ├── codigo_arduino.ino        # Código para el Arduino UNO
-│   └── README.md                 # Detalles del código del Arduino
-│
+│   ├── codigo_arduino.ino        # Código para el Arduino UNO + Servo
+│   
 ├── NodeMCU/
 │   ├── codigo_nodemcu.ino        # Código para el NodeMCU
-│   └── README.md                 # Detalles del código del NodeMCU
-│
+│   
 ├── App/
 │   ├── proyecto_mit_app.aia      # Archivo del proyecto de la app móvil
 │   ├── capturas_app/             # Capturas de pantalla de la app
-│   └── README.md                 # Descripción de la app móvil
-│
+│   
 ├── Documentacion/
 │   ├── Reporte.pdf               # Documento con los detalles del proyecto
 │   ├── esquema_conexiones.png    # Diagrama de conexiones físicas
 │   ├── diagrama_flujo.png        # Diagrama de flujo del sistema
-│   └── README.md                 # Descripción de la documentación
-│
+│   
 ├── LICENSE                       # Licencia del proyecto
 └── README.md                     # Este archivo
 ```
