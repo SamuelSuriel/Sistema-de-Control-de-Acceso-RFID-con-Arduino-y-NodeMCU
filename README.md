@@ -60,6 +60,8 @@ proyecto-control-acceso-rfid/
 └── README.md                     # Este archivo
 ```
 
+![Diagrama de flujo -mermaid](https://github.com/user-attachments/assets/3de1bb74-93f2-4d51-a711-b390f505505a)
+
 ---
 
 ## **Diagrama de Conexiones**
